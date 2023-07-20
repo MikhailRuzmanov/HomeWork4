@@ -1,3 +1,5 @@
+import org.w3c.dom.ls.LSOutput;
+
 import java.net.SocketAddress;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
@@ -17,6 +19,7 @@ public class Main {
 
 
     public static void task1 () {
+        System.out.println("Домашнее задание №4");
         System.out.println("Задача 1");
         int age = 16; // Пишем код для задачи 1
         if (age >= 18) {
